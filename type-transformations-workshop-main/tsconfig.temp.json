@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "/Users/rays/Code/Personal/total-typescript/type-transformations-workshop-main/src/04-conditional-types-and-infer/27-infer-in-union-types.problem.ts"
+    "/Users/rays/Code/Personal/total-typescript/type-transformations-workshop-main/src/05-key-remapping/30-k-in-keyof.problem.ts"
   ]
 }
